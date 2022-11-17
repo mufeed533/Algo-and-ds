@@ -1,2 +1,5 @@
 Array :
 1. https://leetcode.com/problems/3sum/description/
+
+Binary search : 
+1. https://leetcode.com/problems/search-in-rotated-sorted-array/
