@@ -9,3 +9,6 @@ Useful patterns and shortcuts that can be used
    When : To check the length or the linkedList and to check if there is a cycle exist in linkedlist of array
    DS : Linked List or Array
    Example : https://leetcode.com/problems/linked-list-cycle/description/
+
+3. Trees 
+   Most of the times Tree problems can be done by using recursive approach
