@@ -3,3 +3,6 @@ Array :
 
 Binary search : 
 1. https://leetcode.com/problems/search-in-rotated-sorted-array/
+
+Linked List : 
+1. https://leetcode.com/problems/linked-list-cycle/description/
