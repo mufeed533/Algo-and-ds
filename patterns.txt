@@ -4,3 +4,8 @@ Useful patterns and shortcuts that can be used
     When :  we need to handle input in a fixed window size
     DS: Array, String, hashtable
     Example : Longest subsctring with K distinct character
+
+2. Fast and slow pointer
+   When : To check the length or the linkedList and to check if there is a cycle exist in linkedlist of array
+   DS : Linked List or Array
+   Example : https://leetcode.com/problems/linked-list-cycle/description/
