@@ -1,0 +1,19 @@
+"https://leetcode.com/problems/longest-consecutive-sequence/submissions/844885928/"
+
+class Solution(object):
+    def longestConsecutive(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        s = set(nums)
+        if len(nums) <= 1:
+            return len(nums)
+        longest_substring = 1
+        for n in nums:
+            if n-1 not in s:
+                i = n 
+                while i in s:
+                    longest_substring = max(longest_substring, i-n+1)
+                    i = i + 1  
+        return longest_substring
