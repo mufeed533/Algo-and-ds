@@ -1,0 +1,6 @@
+Useful patterns and shortcuts that can be used
+
+1.  Sliding Window
+    When :  we need to handle input in a fixed window size
+    DS: Array, String, hashtable
+    Example : Longest subsctring with K distinct character
