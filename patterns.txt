@@ -11,4 +11,4 @@ Useful patterns and shortcuts that can be used
    Example : https://leetcode.com/problems/linked-list-cycle/description/
 
 3. Trees 
-   Most of the times Tree problems can be done by using recursive approach
+   Most of the times Tree problems can be done by using recursive approach. In recursive solutions most of the times the base case is "if not root: return". 
