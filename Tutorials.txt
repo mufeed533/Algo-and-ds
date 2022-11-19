@@ -1,0 +1,2 @@
+Database
+Normalisation : https://www.youtube.com/watch?v=GFQaEYEc8_8
