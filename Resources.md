@@ -2,6 +2,7 @@
    - [Normalisation](https://www.youtube.com/watch?v=GFQaEYEc8_8)
    - [SQL basics](https://www.linkedin.com/posts/ravitjain_sql-basics-activity-6895249754146582528-iCJD?utm_source=share&utm_medium=member_desktop)
    - [SQL commands and examples](https://www.linkedin.com/feed/update/urn:li:activity:6998659678016561155/)
+   - [SQL basic v2](https://www.linkedin.com/posts/ravitjain_sql-guide-activity-6847622149922988032-TtTK?utm_source=share&utm_medium=member_desktop) 
 
 ##### DS and Algo
    - [Datastructures real world examples](https://www.linkedin.com/posts/ziyamahammad_coding-learning-datastructures-activity-6999421847108800513-ZSnr?utm_source=share&utm_medium=member_desktop)
