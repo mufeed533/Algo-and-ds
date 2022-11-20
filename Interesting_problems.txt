@@ -1,5 +1,6 @@
 Array :
-1. https://leetcode.com/problems/3sum/description/
+1. https://leetcode.com/problems/3sum/description/ - sort the array first, avoid duplicates by skipping them
+2. https://leetcode.com/problems/longest-substring-without-repeating-characters/ - use hash set, while removing element from hashset remove everything until r pointer until s[l] == s[r]
 
 Binary search : 
 1. https://leetcode.com/problems/search-in-rotated-sorted-array/
