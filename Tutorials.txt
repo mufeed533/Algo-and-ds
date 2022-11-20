@@ -11,3 +11,7 @@ https://www.linkedin.com/posts/ziyamahammad_coding-learning-datastructures-activ
 Product bases companies
 ===============================
 100 product based companies in India : https://www.linkedin.com/posts/amanbarnwal_top-100-product-based-companies-in-india-activity-6999939603214336000-oE3g?utm_source=share&utm_medium=member_desktop
+
+System Design
+===================
+System design notes : https://www.linkedin.com/posts/staylearner-krishna-agrawal_system-design-note-activity-6996314536890818560-15Gm?utm_source=share&utm_medium=member_desktop
