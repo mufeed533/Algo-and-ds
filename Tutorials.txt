@@ -8,9 +8,11 @@ DS and Algo
 Datastructures real world example
 https://www.linkedin.com/posts/ziyamahammad_coding-learning-datastructures-activity-6999421847108800513-ZSnr?utm_source=share&utm_medium=member_desktop
 
-Product bases companies
+Interview preparation
 ===============================
 100 product based companies in India : https://www.linkedin.com/posts/amanbarnwal_top-100-product-based-companies-in-india-activity-6999939603214336000-oE3g?utm_source=share&utm_medium=member_desktop
+
+How to prepare for interviews : https://www.linkedin.com/posts/guptanikita16_workfromhome-google-microsoft-activity-6993991718803034112-0PoV?utm_source=share&utm_medium=member_desktop
 
 System Design
 ===================
