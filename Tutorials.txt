@@ -1,2 +1,5 @@
 Database
 Normalisation : https://www.youtube.com/watch?v=GFQaEYEc8_8
+
+Datastructures real world examples :
+https://www.linkedin.com/posts/ziyamahammad_coding-learning-datastructures-activity-6999421847108800513-ZSnr?utm_source=share&utm_medium=member_desktop
