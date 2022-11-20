@@ -11,6 +11,7 @@
    - [Google top leetcode questions and answers](https://www.linkedin.com/posts/pratham-kohli_top-google-questions-part-1-activity-6929689250195980288-g-vM?utm_source=share&utm_medium=member_desktop)
 
    - [How to prepare for interviews](https://www.linkedin.com/posts/guptanikita16_workfromhome-google-microsoft-activity-6993991718803034112-0PoV?utm_source=share&utm_medium=member_desktop)
+   - [List of important Ds and Algo questions](https://www.linkedin.com/posts/anjkt_dsa-challenges-activity-6897077901326462976-wSox?utm_source=share&utm_medium=member_desktop)
 
 ##### System Design
    - [System design notes](https://www.linkedin.com/posts/staylearner-krishna-agrawal_system-design-note-activity-6996314536890818560-15Gm?utm_source=share&utm_medium=member_desktop)
