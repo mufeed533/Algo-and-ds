@@ -1,6 +1,6 @@
 ##### Database
-[Link Normalisation](https://www.youtube.com/watch?v=GFQaEYEc8_8)
-SQL commands and examples : https://www.linkedin.com/feed/update/urn:li:activity:6998659678016561155/
+   - [Normalisation](https://www.youtube.com/watch?v=GFQaEYEc8_8)
+   - [SQL commands and examples](https://www.linkedin.com/feed/update/urn:li:activity:6998659678016561155/)
 
 DS and Algo
 ====================================
