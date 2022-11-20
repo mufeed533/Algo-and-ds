@@ -20,6 +20,7 @@
    
 ##### System Design
    - [System design notes](https://www.linkedin.com/posts/staylearner-krishna-agrawal_system-design-note-activity-6996314536890818560-15Gm?utm_source=share&utm_medium=member_desktop)
+   - [Latency chart](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
 
 ##### Python and programming
    - [Oops notes](https://www.linkedin.com/posts/connect1arpit_object-oriented-programming-activity-6839450176126541824--H20?utm_source=share&utm_medium=member_desktop)
