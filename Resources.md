@@ -13,6 +13,7 @@
    - [List of important Ds and Algo questions](https://www.linkedin.com/posts/anjkt_dsa-challenges-activity-6897077901326462976-wSox?utm_source=share&utm_medium=member_desktop)
    - [Top Leetcode questions and Answers](https://www.linkedin.com/posts/priya-vajpeyi_leetcode-pro-sheet-activity-6920032077715267584-zF2a?utm_source=share&utm_medium=member_desktop)
    - [Leetcode questions and answers](https://drive.google.com/file/d/1pM5K9U2mvsAaBNJ3GuJldkHE4ZUm5drd/view)
+   - [Resumes and cover letters tips](https://www.linkedin.com/posts/ravitjain_resumes-and-cover-letters-activity-6851410423007236096-wAMP?utm_source=share&utm_medium=member_desktop)
 
 ##### System Design
    - [System design notes](https://www.linkedin.com/posts/staylearner-krishna-agrawal_system-design-note-activity-6996314536890818560-15Gm?utm_source=share&utm_medium=member_desktop)
