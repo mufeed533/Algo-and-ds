@@ -1,6 +1,7 @@
 
 ##### Interview preparation
    - [100 product based companies in India](https://www.linkedin.com/posts/amanbarnwal_top-100-product-based-companies-in-india-activity-6999939603214336000-oE3g?utm_source=share&utm_medium=member_desktop)
+   - [List of links to company career pages](https://www.linkedin.com/posts/sweetychaudhary_ca-cs-cfa-activity-6997875859051188225-MLqE?utm_source=share&utm_medium=member_desktop)
    - [12 week interview preparation guide](https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/edit)
    - [Top leetcode questions that you can not miss](https://www.linkedin.com/posts/atul3_save-share-interview-activity-6999928019389681664-dA_S?utm_source=share&utm_medium=member_desktop) - *Very good resource
    - [Google top leetcode questions and answers](https://www.linkedin.com/posts/pratham-kohli_top-google-questions-part-1-activity-6929689250195980288-g-vM?utm_source=share&utm_medium=member_desktop)
