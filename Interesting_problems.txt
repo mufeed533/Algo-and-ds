@@ -7,3 +7,6 @@ Binary search :
 
 Linked List : 
 1. https://leetcode.com/problems/linked-list-cycle/description/
+
+DP:
+1.https://leetcode.com/problems/longest-palindromic-substring/description/
