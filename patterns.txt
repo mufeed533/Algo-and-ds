@@ -12,3 +12,5 @@ Useful patterns and shortcuts that can be used
 
 3. Trees 
    Most of the times Tree problems can be done by using recursive approach. In recursive solutions most of the times the base case is "if not root: return". 
+   For DFS : Use stack
+   For BFS : Use queue
