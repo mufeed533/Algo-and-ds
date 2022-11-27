@@ -1,4 +1,4 @@
-"https://leetcode.com/problems/valid-palindrome/submissions/839506855/"
+"https://leetcode.com/problems/valid-palindrome"
 
 class Solution(object):
     def is_alpha_numeric(self, c):
