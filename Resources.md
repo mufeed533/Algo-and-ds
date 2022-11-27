@@ -7,6 +7,7 @@
    - [Top leetcode posts that you can not miss](https://www.linkedin.com/posts/atul3_save-share-interview-activity-6999928019389681664-dA_S?utm_source=share&utm_medium=member_desktop) - *Very good resource
    - [Amazon and Bloomberg leetcode questions](https://leetcode.com/discuss/interview-question/1349954/Amazon-or-Bloomberg-or-Interview-questions-or-July-2020-July-2021)
    - [Google top leetcode questions and answers](https://www.linkedin.com/posts/pratham-kohli_top-google-questions-part-1-activity-6929689250195980288-g-vM?utm_source=share&utm_medium=member_desktop)
+   - [Bloomberg preparation guide](https://leetcode.com/company/bloomberg/discuss/2069641/The-Only-Lists-You-Need-For-Your-Interview-Preparation)
    - [Apple top leetcode questions](https://www.linkedin.com/posts/activity-6998132113099157504-8YwR?utm_source=share&utm_medium=member_desktop)
    - [How to prepare for interviews](https://www.linkedin.com/posts/guptanikita16_workfromhome-google-microsoft-activity-6993991718803034112-0PoV?utm_source=share&utm_medium=member_desktop)
    - [List of important Ds and Algo questions](https://www.linkedin.com/posts/anjkt_dsa-challenges-activity-6897077901326462976-wSox?utm_source=share&utm_medium=member_desktop)
