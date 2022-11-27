@@ -1,4 +1,4 @@
-"https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/submissions/837543155/"
+"https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/"
 
 class Solution(object):
     def numOfSubarrays(self, arr, k, threshold):
