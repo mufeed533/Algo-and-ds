@@ -14,12 +14,12 @@ def knap_sack(weights: list, values: list, n: int, capacity: int) -> int:
         return knap_sack(weights, values, n - 1, capacity)
     else:
         # we can add
-        return max(values[n - 1] + knap_sack(weights, values, n - 1, capacity - values[n - 1]),
+        return max(values[n - 1] + knap_sack(weights, values, n - 1, capacity - weights[n - 1]),
                    knap_sack(weights, values, n - 1, capacity))
 
 
 w = [1, 2, 3, 4]
-v = [2, 4, 1, 3]
+v = [2, 1, 1, 1]
 c = 8
 
 result = knap_sack(w, v, len(w), c)
