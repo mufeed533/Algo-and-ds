@@ -1,14 +1,15 @@
 results = []
 
-
-def subsets_string(s, curr):
-    if len(s) == 0:
-        return ""
-    curr = s[-1] + subsets_string(s[:-1], curr)
-    results.append(curr)
-    curr = ""
-    return curr
+arr = []
 
 
-subsets_string("abc", "")
-print(results)
+# ToDo: This code is unfinished
+def subsets_string(s, index, curr):
+    if index == len(s):
+        return []
+    arr.append([s[index]] + subsets_string(s, index + 1, curr))
+    arr.append(subsets_string(s, index + 1, curr))
+    return []
+
+
+print(subsets_string("abc", 0, ""))
