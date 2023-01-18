@@ -2,17 +2,17 @@
 arr = []
 
 
-# ToDo: This code is unfinished
-def subsets_string(s: str, index: int, results: list) -> list:
-    if index == len(s):
-        return []
+def subsets_string(s: str) -> list:
+    if len(s) == 0:
+        return ['']
 
-    curr_char = s[index]
-    prev_res = subsets_string(s, index + 1, results)
+    curr_char = s[-1]
+    prev_res = subsets_string(s[:-1])
+    results = []
     for i in prev_res:
+        results.append(i)
         results.append(i + curr_char)
-    results.append(curr_char)
     return results
 
 
-print(subsets_string("abc", 0, []))
+print(subsets_string("abc"))
