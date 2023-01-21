@@ -2,25 +2,52 @@
 Develop a solution for knap-sack problem
 """
 
+dict = {}
 
-def knap_sack(weights: list, values: list, n: int, capacity: int) -> int:
-    # base condition
-    if n == 0 or capacity == 0:
+
+def knap_sack(v: list, w: list, n: int, c) -> int:
+    if c == 0 or n == 0:
         return 0
+    if (n, c) in dict:
+        return dict[(n, c)]
 
-    # choice diagram
-    if weights[n - 1] > capacity:
-        # can not add
-        return knap_sack(weights, values, n - 1, capacity)
+    if c < w[n - 1]:
+        dict[(n, c)] = knap_sack(v, w, n - 1, c)
+        return dict[(n, c)]
     else:
-        # we can add
-        return max(values[n - 1] + knap_sack(weights, values, n - 1, capacity - weights[n - 1]),
-                   knap_sack(weights, values, n - 1, capacity))
+        dict[(n, c)] = max(v[n - 1] + knap_sack(v, w, n - 1, c - w[n - 1]),
+                           knap_sack(v, w, n - 1, c))
+        return dict[(n, c)]
 
 
-w = [1, 2, 3, 4]
-v = [2, 1, 1, 1]
-c = 8
+def knap_sack_by_bottom_down_dp(v: list, w: list, n: int, c: int):
+    dp = {}
+    for i in range(n + 1):
+        for j in range(c + 1):
+            if i == 0 or j == 0:
+                dp[(i, j)] = 0
 
-result = knap_sack(w, v, len(w), c)
+    for i in range(1, n+1):
+        for j in range(1, c+1):
+            if w[i - 1] > j:
+                dp[(i, j)] = dp[(i - 1, j)]
+            else:
+                dp[(i, j)] = max(v[i - 1] + dp[(i - 1, j - w[i - 1])], dp[(i - 1, j)])
+    return dp[(n, c)]
+
+
+"""
+base condition:
+ if c == 0 or n == 0
+      return 0
+
+Choice diagram:
+            if wi > c:
+              return func()
+            else:
+               return max()
+"""
+
+# result = knap_sack([1, 2, 3, 4], [2, 1, 1, 1], 4, 8)
+result = knap_sack_by_bottom_down_dp([1, 2, 3, 4], [2, 1, 1, 1], 4, 8)
 print(result)
